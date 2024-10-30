@@ -1,0 +1,26 @@
+day 1
+devops - process that improves the orgs ability to deliver applications.
+
+improving delivery
+automation
+quality
+monitoring
+testing
+
+process of improving app delivery by ensuring automation, quality, continuous monitoring and testing.
+
+why devops?
+developer writes code-> customer is receiving
+to deliver - sys admin, build and release engg., server admin
+
+day 2
+sdlc - software development lifecycle
+standards followed to design develop and test
+https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/
+planning
+defining 
+design 
+build
+deploy
+test
+
